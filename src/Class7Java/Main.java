@@ -1,4 +1,4 @@
-package Package2;
+package Class7Java;
 
 public class Main{
 
