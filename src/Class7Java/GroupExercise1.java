@@ -8,11 +8,17 @@ public class GroupExercise1 {
     public static void main ( String args[] ) {
 
 
-        for(int i =10; i>0; i--){
-                System.out.println(i);
-            }
+
+
+
+        for(int year =2011 ;year<=2019;year++){
+            System.out.println("Hey, it is year: ");
+            System.out.println(year);
         }
     }
+
+}
+
 
 
 
