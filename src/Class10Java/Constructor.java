@@ -1,4 +1,4 @@
-package Package1;
+package Class10Java;
 
 public class Constructor {
 
