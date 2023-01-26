@@ -5,14 +5,17 @@ import java.util.Arrays;
 public class HW1 {
     public static void main ( String[] args ) {
 
-        String [] animals ={"Asli","Slava","","Dog","Cat"};
+        String [] [] StudentsGrades = {{"Tarik","Hiral","Slava","Daria"},{"A","B","C","D"}};
 
-        int sum=0;
 
-        for (int i = 0; i < animals.length ; i++) {
-            if (animals[i]=="Cat"){
-                sum++;
-                System.out.println(animals[i]);
+        for (int i = 0; i <StudentsGrades.length ; i++) {
+            for (int j = 0; j <StudentsGrades.length ; j++) {
+                if (j!=0){
+
+
+            }
+                System.out.println(StudentsGrades[i][j]);
+        }
 
 
             }
@@ -21,4 +24,3 @@ public class HW1 {
         }
 
     }
-}
