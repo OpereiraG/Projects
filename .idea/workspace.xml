@@ -4,10 +4,151 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="c6bcf971-5fe1-43dd-a369-b5d9276b39a3" name="Changes" comment="version">
       <change afterPath="$PROJECT_DIR$/src/Class23Java/Hello.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+    <list default="true" id="c6bcf971-5fe1-43dd-a369-b5d9276b39a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/HomeWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11Java/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11Java/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11Java/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11Java/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11Java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11Java/MoreLoopsREview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11Java/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11Java/StringManipulations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/DEmoString8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/HW2StringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/HW3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/REplit80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/REplit83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/REplit85.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/REplit86.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/Replit79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/Replit81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/Replit82.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/Replit84.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/Replit87.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/Replit88.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/Replit89.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/Replit90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/Replit91.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/Replit92.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/Replit93.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/StringDEmo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/StringDEmo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/StringDEmo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/StringDEmo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/StringDemo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/StringDemo11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/StringDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/StringDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/StringDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/Taks1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12Java/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class13Java/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class13Java/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class13Java/HW3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class13Java/REplaceAllMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class13Java/ReplaceMethodDEmo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class13Java/SplitMethodDEmo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class13Java/StringBuildervsString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class13Java/StringREcap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class14Java/ArrayAddMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class14Java/MethodsDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class14Java/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class14Java/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class14Java/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class14Java/Task4ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replits/ReadmeREplit94" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replits/ReadmeReplit92" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replits/ReadmeReplit93" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replits/Replit91.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replits/Replit92.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replits/Replit93.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replits/Replit94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewJan19/REview2ClassJan19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class7Java/DoWhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class7Java/FavFoodCountry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class7Java/ForLoop1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class7Java/ForLoop2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class7Java/ForLoop5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class7Java/ForLoops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class7Java/GroupExercise1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class7Java/HW1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class7Java/HW10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class7Java/HW2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class7Java/HW3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class7Java/HW3Reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class7Java/HW4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class7Java/HW4Reversed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class7Java/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class7Java/WhileLoopGuess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class8Java/ContinueKeyword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class8Java/HW2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class8Java/HW2ForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class8Java/HW3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class8Java/HW4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class8Java/HW4NP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class8Java/Hw1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class8Java/LoopPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class8Java/LoopWithString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class8Java/NestedLoop5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class8Java/NestedLoop6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class8Java/NestedLoop7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class8Java/NestedLoop8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class8Java/NestedLoops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class8Java/NestedLoops2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class8Java/NestedLopp4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class8Java/RecapDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class8Java/RecapDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class8Java/Replit63.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class8Java/breakKeyWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class8Java/breakKeyWord2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class8Java/withouttheBreak.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class9Java/ArrayDEmo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class9Java/ArrayDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class9Java/ArrayDemo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class9Java/ArrayDemo6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class9Java/ArrayDemo7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class9Java/ArrayDemo9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class9Java/ArraysDEmo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class9Java/ArryaDemo8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class9Java/ExerciseClass9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class9Java/MyTryHW4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class9Java/RevHW1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class9Java/RevHW2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class9Java/RevHW3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class9Java/RevHW4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Class9Java/Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Package1/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Package1/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Package1/Constructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Package1/Fox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Package1/HW1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Package1/HW2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Package1/HW3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Package1/HW4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Package1/HW5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Package1/HW6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Package1/HW7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Package1/HW8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Package1/HW9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Package1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Package1/ReversedLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorkJava/Package1/SwitchCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class11Java/HW1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class11Java/HW1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Review1ClassJan19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewJan19/Review1ClassJan19.java" afterDir="false" />
+>>>>>>> a54ac928ee7e027c632b57ed47cc287e899d438b
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,10 +163,14 @@
     </option>
   </component>
   <component name="Git.Settings">
+<<<<<<< HEAD
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-19/lib/src.zip!/java.base/java/util/Scanner.java" root0="SKIP_INSPECTION" />
+=======
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+>>>>>>> a54ac928ee7e027c632b57ed47cc287e899d438b
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -45,6 +190,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Tester">
     <configuration name="ComputerTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class23Java.ComputerTester" />
@@ -52,6 +198,15 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Class23Java.*" />
+=======
+  <component name="RunManager" selected="Application.ArrayAddMachine">
+    <configuration name="ArrayAddMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class14Java.ArrayAddMachine" />
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class14Java.*" />
+>>>>>>> a54ac928ee7e027c632b57ed47cc287e899d438b
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +214,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Replits.Main" />
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Replits.*" />
+=======
+    <configuration name="MethodsDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class14Java.MethodsDemo1" />
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class14Java.*" />
+>>>>>>> a54ac928ee7e027c632b57ed47cc287e899d438b
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +236,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Replit139" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Replits.Replit139" />
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Replits.*" />
+=======
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class14Java.Task2" />
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class14Java.*" />
+>>>>>>> a54ac928ee7e027c632b57ed47cc287e899d438b
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +258,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class23Java.Tester" />
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Class23Java.*" />
+=======
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class14Java.Task3" />
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class14Java.*" />
+>>>>>>> a54ac928ee7e027c632b57ed47cc287e899d438b
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +280,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="WebBroswerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class23Java.WebBroswerTest" />
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Class23Java.*" />
+=======
+    <configuration name="Task4ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class14Java.Task4ReverseString" />
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class14Java.*" />
+>>>>>>> a54ac928ee7e027c632b57ed47cc287e899d438b
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +304,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.Tester" />
         <item itemvalue="Application.ComputerTester" />
         <item itemvalue="Application.WebBroswerTest" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Replit139" />
+=======
+        <item itemvalue="Application.ArrayAddMachine" />
+        <item itemvalue="Application.MethodsDemo1" />
+        <item itemvalue="Application.Task4ReverseString" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task2" />
+>>>>>>> a54ac928ee7e027c632b57ed47cc287e899d438b
       </list>
     </recent_temporary>
   </component>
@@ -130,6 +329,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674443358187</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00001" summary="version">
       <created>1674702392947</created>
       <option name="number" value="00001" />
@@ -155,6 +355,10 @@
     <MESSAGE value="version" />
     <option name="LAST_COMMIT_MESSAGE" value="version" />
   </component>
+=======
+    <servers />
+  </component>
+>>>>>>> a54ac928ee7e027c632b57ed47cc287e899d438b
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -163,6 +367,7 @@
           <line>11</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+<<<<<<< HEAD
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Class15Java/MethodPractice2.java</url>
           <line>8</line>
@@ -173,6 +378,8 @@
           <line>5</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+=======
+>>>>>>> a54ac928ee7e027c632b57ed47cc287e899d438b
       </breakpoints>
     </breakpoint-manager>
   </component>
